@@ -21,13 +21,16 @@ main {
 
 .TextoPrincipal{
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 190%;
 }
 
 .TextoSecundario{
     margin: 5%;
     text-align: justify;
-    text-indent: 4rem;
-    font-size: 150%;
+    text-indent: 3rem;
+    font-size: 200%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
 
 /*.foto {
