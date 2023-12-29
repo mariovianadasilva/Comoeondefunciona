@@ -1,13 +1,22 @@
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body {
     background-color:blueviolet;
+    width: 100%;
+    max-width: 100%;
 }
 
 main {
-    background-color: white;
-    width: 400px;
+    background-color: #ffffff;
+    width: 90vmax;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    max-width: 100%;
+    border-radius: 10px;
 }
 
 .TextoPrincipal{
@@ -33,14 +42,20 @@ ul{
     justify-content: space-around;
 }*/
 
-.foto {
+.video {
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 ul{
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
 }
 
 ul li{
