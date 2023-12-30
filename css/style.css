@@ -9,6 +9,7 @@ body {
     max-width: 100%;
 }
 
+
 main {
     background-color: #ffffff;
     width: 90vmax;
@@ -23,6 +24,14 @@ main {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 190%;
+    display: inline-flex;
+}
+
+.logo {
+    width: 10%;
+    height: 20%;
+    display: flex;
+    text-align: center;
 }
 
 .TextoSecundario{
