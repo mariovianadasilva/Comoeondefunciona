@@ -35,7 +35,7 @@ main {
 }
 
 .video {
-    width: 80%;
+    width: 100vmax;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
