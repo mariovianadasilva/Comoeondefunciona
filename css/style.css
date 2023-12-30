@@ -40,6 +40,11 @@ figure {
     margin: 0 auto;
 }
 
+figcaption {
+    font: 120% sans-serif;
+    text-align: center;
+}
+
 /*.video {
     width: 50vmax;
     display: inline-flex;
