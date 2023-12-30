@@ -10,7 +10,6 @@ body {
     margin: 10px auto;
 }
 
-
 main {
     background-color: #ffffff;
     width: 80vmax;
@@ -41,23 +40,16 @@ figure#video {
 }
 
 figcaption.saibamais {
-    font-size: 100%;
+    font-size: 1.5vmax;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 figcaption.descricao {
     font-family: Verdana;
-    font-size: 160%;
+    font-size: 2.5vmax;
     text-align: center;
 }
-
-/*.video {
-    width: 50vmax;
-    display: inline-flex;
-    flex-direction: column;
-    margin-bottom: 20px;
-}*/
 
 .video {
     position: relative;
