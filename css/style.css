@@ -12,7 +12,7 @@ body {
 
 main {
     background-color: #ffffff;
-    width: 90vmax;
+    width: 80vmax;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
@@ -28,7 +28,7 @@ main {
 }
 
 .logo {
-    width: 10%;
+    width: 15%;
     height: 20%;
     display: flex;
     text-align: center;
