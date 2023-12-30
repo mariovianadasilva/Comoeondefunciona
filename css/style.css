@@ -30,7 +30,7 @@ main {
 
 .logo {
     width: 15%;
-    display: flex;
+    display: inline;
     text-align: center;
 }
 
