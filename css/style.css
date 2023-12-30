@@ -30,7 +30,7 @@ main {
 
 .logo {
     width: 1%;
-    display: inline;
+    display: inline-flex;
     text-align: right; /*Quero jogar a logo para a direita*/
 }
 
