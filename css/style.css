@@ -34,15 +34,20 @@ main {
     text-align: right; /*Quero jogar a logo para a direita*/
 }
 
-figure {
+figure#video {
     width: 90%;
     min-width: 17.5em;
     margin: 0 auto;
 }
 
-figcaption {
+figcaption.descricao {
     font: 120% sans-serif;
     text-align: center;
+}
+
+figcaption.saibamais {
+    font: 120% sans-serif;
+    text-align: left;
 }
 
 /*.video {
