@@ -27,11 +27,14 @@ main {
     display: inline-flex;
 }
 
-.logoiptv{
-    display: block;
-    text-align: auto;   
+div.logoiptv{
+    display: flex;
+    background-position: right;
+    background-size: 70%;
+    background-image: url("../img/LM_IPTV-removebg.png");
+    background-repeat: no-repeat;
+    width: 100%;
     
-   
 }
 
 .logow {
