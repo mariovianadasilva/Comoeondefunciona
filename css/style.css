@@ -27,7 +27,12 @@ main {
     display: inline-flex;
 }
 
-.logo {
+div.logoiptv{
+    display: inline-block;
+    text-align: right;      
+}
+
+.logow {
     width: 1%;
     display: inline-flex;
     text-align: right; /*Quero jogar a logo para a direita*/
