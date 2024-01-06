@@ -27,9 +27,11 @@ main {
     display: inline-flex;
 }
 
-div.logoiptv{
-    display: inline-block;
-    text-align: right;      
+.logoiptv{
+    display: block;
+    text-align: auto;   
+    width: 20vmax;
+    margin-left: 30vmax;  
 }
 
 .logow {
