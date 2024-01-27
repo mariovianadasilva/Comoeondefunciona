@@ -34,10 +34,11 @@ h1 {
 div.logoiptv{
     display: flex;
     background-position: right;
-    background-size: 70%;
+    background-size: 10vmax;
     background-image: url("../img/LM_IPTV-removebg.png");
     background-repeat: no-repeat;
-    width: 100%;margin-bottom: 30px;   
+    width: 20vmax;
+    margin-bottom: -0.5px;   
 }
 
 figure#video {
